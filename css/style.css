@@ -124,7 +124,7 @@ body::before {
   width:100%;
   height:600px;
   opacity: 0.7;
-  background:url('../image/top-image.jpg') center/cover no-repeat; /*fixedをトル！*/
+  background:url('../image/24182136_m.jpg') center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -858,8 +858,8 @@ body::before {
    border-top:1px solid #d7d7d7!important;
   }
 
-  /* 必須・任意のサイズ調整 */ 
-  .inquiry .haveto,.inquiry .any {  
+  /* 必須・任意のサイズ調整 */
+  .inquiry .haveto,.inquiry .any {
   font-size:10px;
   }
 }
@@ -888,7 +888,7 @@ body::before {
 
 /*横の行とテーブル全体*/
 .entry-content .inquiry tr,.entry-content table{
- border:solid 1px #d7d7d7;  
+ border:solid 1px #d7d7d7;
 }
 /*必須の調整*/
 .haveto{
@@ -928,7 +928,7 @@ body::before {
  background:#ffaa56;
  color:#fff;
  font-size:18px;
- font-weight:bold;   
+ font-weight:bold;
  border-radius:2px;
  margin:25px auto 0;
 }
